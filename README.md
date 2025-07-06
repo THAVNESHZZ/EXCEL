@@ -72,7 +72,7 @@ This Excel Dashboard visually summarizes pizza sales data, helping users answer 
 ## Directions :
 1. Clone or download the repository.
 
-2. Open the Pizza-Sales-Dashboard.xlsx file in Excel (preferably 2016 or later).
+2. Open the Excel Project - Pizza sales analysis 1.xlsx file in Excel (preferably 2016 or later).
 
 3. Use slicers and buttons to explore different views and analyze the data.
 
